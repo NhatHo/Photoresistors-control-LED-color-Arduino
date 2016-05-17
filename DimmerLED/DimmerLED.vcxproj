@@ -48,7 +48,7 @@
       <AdditionalIncludeDirectories>D:\Arduino\hardware\arduino\avr\cores\arduino;D:\Arduino\hardware\arduino\avr\variants\standard;D:\NhatHoWorkSpace\ArduinoProjects\DimmerLED\DimmerLED;D:\Arduino\libraries;D:\Arduino\hardware\arduino\avr\libraries;D:\VisualStudioEnterprise\Common7\IDE\Extensions\vypaxw32.1mr\Micro Platforms\default\debuggers;C:\Users\NhatHo\Documents\Arduino\libraries;D:\Arduino\hardware\tools\avr/avr/include/;D:\Arduino\hardware\tools\avr//avr/include/avr/;D:\Arduino\hardware\tools\avr/lib\gcc\avr\4.8.1\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <ForcedIncludeFiles>D:\NhatHoWorkSpace\ArduinoProjects\DimmerLED\DimmerLED\__vm\.DimmerLED.vsarduino.h;%(ForcedIncludeFiles)</ForcedIncludeFiles>
       <IgnoreStandardIncludePath>false</IgnoreStandardIncludePath>
-      <PreprocessorDefinitions>__AVR_ATmega328p__;__AVR_ATmega328P__;F_CPU=16000000L;ARDUINO=10609;ARDUINO_AVR_UNO;ARDUINO_ARCH_AVR;__cplusplus=201103L;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>__AVR_ATmega328p__;__AVR_ATmega328P__;_VMDEBUG=1;F_CPU=16000000L;ARDUINO=10609;ARDUINO_AVR_UNO;ARDUINO_ARCH_AVR;__cplusplus=201103L;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
